@@ -1,7 +1,7 @@
 function isPositive(a) {
   
     if(a>0)
-       throw Error("YES"); //
+       throw Error("YES"); //thorw Error dekha te use kora hoi
    else
      if(a<0)
        throw Error("Negative Error");
